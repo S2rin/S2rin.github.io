@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+WELCOME TO S2rin.github.io
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[S2rin github][1]
+[1]:https://github.com/S2rin
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ksr95703@gmail.com](mailto:ksr95703@gmail.com)

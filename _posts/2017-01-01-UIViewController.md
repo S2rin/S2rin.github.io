@@ -10,7 +10,7 @@ Tags: ios study surin
 
 **Index**
 
-[TOC]
+* TOC
 
 **Task**
 
